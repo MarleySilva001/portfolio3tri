@@ -1,0 +1,14 @@
+ No Mundo Senai estive envolvido no projeto Eu Robô, que foi inspirado em uma atividade de lógica da programação nomeada 
+'O Caos' e  o nome do projeto é uma referência ao livro  'Eu, Robô' de Isaac Asimov. Nesse Projeto os integrantes da equipe 
+se dividiram em dois grupos: os engenheiros e os programadores.
+
+
+ O objetivo era construir um robô EV3 capaz de percorrer a pista de fita isolante que os alunos criaram, no projeto além de 
+haver a montagem do robô e a criação da programação, teve a criação de um caderno com o passo a passo e as peças utilizadas 
+na montagem , por fim teve a criação de uma apresentação em slides.
+
+
+ A programação funcionava a partir da cor identificada pelo sensor infravermelho , caso a intensidade de luz refletida fosse
+ maior que 10, a roda esquerda iria ter uma velocidade maior do que a direita, caso a intensidade de luz refletida fosse 
+menor que 10, a roda direita iria ter uma velocidade maior do que a esquerda, o sensor também identificava duas cores: 
+verde e vermelho, verde iniciava a programação e vermelho encerrava a programação.

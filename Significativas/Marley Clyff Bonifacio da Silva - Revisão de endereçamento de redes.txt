@@ -1,0 +1,29 @@
+﻿Identifique se os ips abaixo são dispositivos em uma mesma rede:
+a)192.168.0.15/24, 192.168.1.16/24 e 192.168.0.17/24
+O segundo endereço 192.168.1.16 está em uma rede diferente dos demais pelo .1.
+b)192.168.2.192/26, 192.168.0.193/24 e 192.168.0.194/24
+O primeiro endereço 192.168.2.192 está em uma rede diferente dos demais pelo .2.
+c)192.168.2.190/26, 192.168.0.191/24 e 192.168.0.192/24
+O primeiro endereço 192.168.2.190 está em uma rede diferente dos demais pelo .2.
+d)192.168.2.195/26, 192.168.0.196/24 e 192.168.0.197/24
+O primeiro endereço 192.168.2.195 está em uma rede diferente dos demais pelo .2.
+Qual o endereço de rede e o endereço de broadcast dos seguintes dispositivos:
+a)192.168.2.192/26
+endereço de rede: 192.168.2.192/26
+broadcast: 192.168.2.255/26
+b)192.180.70.150/28
+endereço de rede:192.180.70.144/28
+broadcast:192.180.70.159/28
+c)192.168.87.138/21
+endereço de rede:192.168.80.0/21
+broadcast:192.168.87.255/21
+d)192.168.70.34/30
+endereço de rede:192.168.70.32/30
+broadcast:192.168.70.35/30
+
+
+Quantos dispositivos cabem nas redes dos IPs abaixo?
+a)192.168.0.10/24 → 254
+b)192.168.7.29/29 → 6
+c)192.168.110.73/18 → 16382
+d)192.173.28.199/10 → 4194302

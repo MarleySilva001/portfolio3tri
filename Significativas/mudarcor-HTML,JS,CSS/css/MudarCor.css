@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.body{
+    text-align: center;
+}
+
+.h1{
+    font-weight: bolder;
+    font-family: 'Times New Roman';
+}
+
+.segredo{
+    font-size:15px; 
+    color: snow; 
+    font-weight: bolder;
+}
